@@ -24,5 +24,6 @@ int main()
     // Printing Subtraction
     cout << " subtraction of "  << a <<  " & "  <<  b << " = " << s << endl;
     cout << "This is just a print message"<< endl;
+    cout << "Artifacts has been added";
     return 0;
 }
